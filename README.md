@@ -112,7 +112,7 @@ If you encounter trouble with the above method, you can try:
 3. `yarn build`
 4. `yarn start`
 
-Optionally, you may simply run `./make_popcorn.sh` if you are on a linux or mac based operating system.
+Or, if you are on Linux or macOS, you may simply run `yarn exec make_popcorn.sh`
 
 Full instructions & troubleshooting tips can be found in the [Contributing Guide](CONTRIBUTING.md#contributing-to-popcorn-time).
 
